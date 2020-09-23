@@ -5,7 +5,7 @@ public class Aluno {
 	/*Esses são os atributos do Aluno*/
 	
 	public String nome;
-	int idade;
+	public int idade;
 	String dataNascimento;
 	String registroGeral;
 	String numeroCpf;

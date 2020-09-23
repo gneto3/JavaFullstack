@@ -10,7 +10,9 @@ public class oneclass {
 		/*aluno1 é uma referencia para o objeto Aluno*/
 		Aluno aluno1 = new Aluno();
 		aluno1.nome = "Ferraretto";
+		aluno1.idade = 65;
 		System.out.println("Nome do aluno 1 é = " + aluno1.nome);
+		System.out.println("A idade é = " + aluno1.idade);
 		
 		Aluno aluno2 = new Aluno();
 	
