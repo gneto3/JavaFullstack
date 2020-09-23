@@ -16,5 +16,7 @@ public class oneclass {
 		
 		Aluno aluno5 = new Aluno("José", 50);
 		
+		Aluno aluno6 = new Aluno("João", 26);
+		
 	}
 }
