@@ -37,7 +37,7 @@ public class oneclass {
 		
 		Aluno aluno2 = new Aluno();
 	
-		Aluno aluno3 = new Aluno();
+		Aluno aluno3 = new Aluno("Teste");
 		
 		Aluno aluno4 = new Aluno("Maria");
 		
