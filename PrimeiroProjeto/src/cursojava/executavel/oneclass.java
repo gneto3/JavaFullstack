@@ -20,6 +20,10 @@ public class oneclass {
 		aluno1.setNumeroCpf("999.999.999-99");
 		aluno1.setRegistroGeral("99.999.999.9");
 		
+		aluno1.setNota1(90);
+		aluno1.setNota2(80.8);
+		aluno1.setNota3(82.7);
+		aluno1.setNota4(95.3);
 		
 		System.out.println("O nome do aluno é: " + aluno1.getNome());
 		System.out.println("Idade: " + aluno1.getIdade());
@@ -32,7 +36,12 @@ public class oneclass {
 		System.out.println("CPF: " + aluno1.getNumeroCpf());
 		System.out.println("RG: " + aluno1.getRegistroGeral());
 		
+		//System.out.println("Nota1: " + aluno1.getNota1());
+		//System.out.println("Nota2: " + aluno1.getNota2());
+		//System.out.println("Nota3: " + aluno1.getNota3());
+		//System.out.println("Nota4: " + aluno1.getNota4());
 		
+		System.out.println("Média das notas: " + aluno1.getMediaNota());
 		
 		
 		Aluno aluno2 = new Aluno("Teste1");
