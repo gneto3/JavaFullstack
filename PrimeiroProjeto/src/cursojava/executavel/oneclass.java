@@ -9,7 +9,7 @@ public class oneclass {
 		/*new Aluno() é uma instancia (Criação de objeto)*/
 		/*aluno1 é uma referencia para o objeto Aluno*/
 		Aluno aluno1 = new Aluno();
-		aluno1.setNome("Ferraretto Hotel");
+		aluno1.setNome("Ferraretto");
 		System.out.println("O nome do aluno é: " + aluno1.getNome());
 		
 		

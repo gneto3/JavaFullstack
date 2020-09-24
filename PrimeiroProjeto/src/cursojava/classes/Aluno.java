@@ -6,14 +6,14 @@ public class Aluno {
 	
 	private String nome;
 	private int idade;
-	private dataNascimento;
-	private registroGeral;
-	private numeroCpf;
-	private nomeMae;
-	private nomePai;
-	private dataMatricula;
-	private nomeEscola;
-	private serieMatriculado;
+	private String dataNascimento;
+	private String registroGeral;
+	private String numeroCpf;
+	private String nomeMae;
+	private String nomePai;
+	private String dataMatricula;
+	private String nomeEscola;
+	private String serieMatriculado;
 
 	public Aluno() { /*Cria os dados na memória, sendo padrão do java*/
 		
