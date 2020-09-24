@@ -42,7 +42,8 @@ public class oneclass {
 		//System.out.println("Nota4: " + aluno1.getNota4());
 		
 		System.out.println("Média das notas: " + aluno1.getMediaNota());
-		
+		System.out.println("Resultado: " + (aluno1.getAlunoAprovado() ? "Aprovado" : "Reprovado"));
+		System.out.println("Resultado 2: " + aluno1.getAlunoAprovado2());
 		
 		Aluno aluno2 = new Aluno("Teste1");
 	
