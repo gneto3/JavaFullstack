@@ -12,7 +12,7 @@ public class oneclass {
 		aluno1.setNome("Ferraretto Hotel");
 		System.out.println("O nome do aluno é: " + aluno1.getNome());
 		
-		g
+		
 		Aluno aluno2 = new Aluno();
 	
 		Aluno aluno3 = new Aluno();
