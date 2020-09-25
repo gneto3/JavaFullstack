@@ -56,4 +56,4 @@ public class oneclass {
 		Aluno aluno6 = new Aluno("João", 26);
 		
 	}
-}8
+}
